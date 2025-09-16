@@ -133,7 +133,6 @@ public class Main {
         sucursal3.setEmpresa(empresa2);
         sucursal4.setEmpresa(empresa2);
 
-//        System.out.println(mendoza);
-//        System.out.println(argentina);
+
     }
 }
